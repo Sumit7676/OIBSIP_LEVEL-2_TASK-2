@@ -1,2 +1,2 @@
-# OIBSIP_LEVEL-2_TASK-2
-Tribute Page
+# Tribute Page TO Nikola Tesla
+Using HTML and CSS the webpage is designed to showcase a webpage dedicated to give tribute to the great scientist, Nikola Tesla.
